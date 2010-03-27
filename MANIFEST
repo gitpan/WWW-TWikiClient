@@ -9,6 +9,6 @@ LICENSE
 MANIFEST			This list of files
 META.yml
 README
+t/00-load.t
 t/distribution.t
 t/pod-coverage.t
-Makefile.PL
